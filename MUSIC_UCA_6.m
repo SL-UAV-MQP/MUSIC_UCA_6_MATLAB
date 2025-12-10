@@ -9,9 +9,7 @@ classdef MUSIC_UCA_6 < handle
     % - Array: 6 elements, radius 0.176m (0.6λ at 1050 MHz)
     % - Frequency Range: 700-1400 MHz
     % - Directional antennas: 60° HPBW, 15 dB F/B ratio
-    %
-    % Author: Ported from Python implementation
-    % Date: 2025-12-08
+
 
     properties
         % Array configuration
